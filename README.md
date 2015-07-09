@@ -18,6 +18,7 @@ set up the necessary files.
 
     npm i
     bower i
+    bundle install --path vendor/bundle 
     
 and
 
